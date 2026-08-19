@@ -1,9 +1,14 @@
 # Atividade Teórica: Regra de Negócio no BD versus na Aplicação
 
 **Aluno(s):** João Paulo Dias; João Victor; Maykon; Saymon; Pedro Henrique
+
 **Turma:** Banco de Dados 2026
+
+**Grupo:** 9
+
 **Data:** 19 de agosto de 2026
-**Repositório Git:** [PREENCHER]
+
+**Repositório Git:** <https://github.com/PedroBirudevs/bd2026-regra-negocio-grupo-9>
 
 ---
 
@@ -801,7 +806,7 @@ A pergunta útil, portanto, não é "banco ou aplicação?", e sim: **"o que exa
 
 # Link do Repositório Git
 
-**[PREENCHER]**
+**<https://github.com/PedroBirudevs/bd2026-regra-negocio-grupo-9>**
 
 ---
 
@@ -866,7 +871,7 @@ A pergunta útil, portanto, não é "banco ou aplicação?", e sim: **"o que exa
 | 38 | Não confundir regra de negócio com integridade de dados | ✅ | 1.1, tabela de três conceitos e exemplo do CPF |
 | 39 | Não afirmar que toda regra de negócio deve estar no banco | ✅ | 1.1, 1.5 (Cenário C) e Seção 4, "riscos de tudo no banco" |
 | 40 | Não afirmar que validação na aplicação substitui a integridade do banco | ✅ | 1.1 (parágrafo final), 1.3 (desvantagens) e 2.2 (linha "informativa, não garantia" da tabela) |
-| 41 | Não inventar informações | ✅ | SQL executado em servidor real; referências verificadas; onde faltam dados pessoais, `[PREENCHER]` |
+| 41 | Não inventar informações | ✅ | SQL executado em servidor real; referências verificadas; nenhuma fonte ou saída de comando foi inventada |
 | 42 | Revisão técnica na perspectiva do professor, com os 10 pontos | ✅ | Apêndice A |
 | 43 | Entrega em Markdown, pronto para salvar com o nome indicado | ✅ | Este arquivo: `ATIVIDADE-teorica-regra-negocio-grupo-XX-sobrenome-do-aluno.md` |
-| 44 | Uso de `[PREENCHER]` para dados pessoais ausentes | ✅ | Cabeçalho (alunos, data, repositório) e seção "Link do Repositório Git" |
+| 44 | Dados de identificação preenchidos | ✅ | Cabeçalho (alunos, turma, grupo, data, repositório) e seção "Link do Repositório Git" |
