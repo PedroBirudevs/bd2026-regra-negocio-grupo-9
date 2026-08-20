@@ -1,10 +1,12 @@
 # Sistema de Gerenciamento de Atendimentos
 
-**Disciplina:** Banco de Dados 2026
-**Grupo:** 9
-**Integrantes:** João Paulo Dias; João Victor; Maykon; Saymon; Pedro Henrique
-**SGBD:** PostgreSQL
-**Data:** 19 de agosto de 2026
+| | |
+|---|---|
+| **Disciplina** | Banco de Dados 2026 |
+| **Grupo** | 9 |
+| **Integrantes** | João Paulo Dias; João Victor; Maykon; Saymon; Pedro Henrique |
+| **SGBD** | PostgreSQL |
+| **Data** | 19 de agosto de 2026 |
 
 ---
 
